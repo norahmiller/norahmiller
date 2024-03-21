@@ -2,7 +2,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/11933/11933138.png" width="200"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/11933/11933138.png" width="100"/>
 </div>
 
 ### Hello! 👋
