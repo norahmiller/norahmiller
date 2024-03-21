@@ -1,8 +1,11 @@
-### Hi there 👋
+
+
 
 <div id="header" align="center">
-  <img src="[[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://cdn-icons-png.flaticon.com/512/11933/11933138.png)](https://www.flaticon.com/free-sticker/computer-engineer_11933138?term=computer+engineer&page=1&position=65&origin=tag&related_id=11933138)" width="100"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/11933/11933138.png" width="200"/>
 </div>
+
+### Hello! 👋
 
 
 <!--
