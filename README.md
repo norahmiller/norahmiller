@@ -2,7 +2,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://www.piranhaprofits.com/hubfs/Avater%20Course%20Icon%204-1.png" width="150"/>
+  <img src="https://www.piranhaprofits.com/hubfs/Avater%20Course%20Icon%204-1.png" width="200"/>
 
   <div id="badges">
   <a href="https://www.linkedin.com/in/norahmiller/">
