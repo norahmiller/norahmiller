@@ -2,7 +2,12 @@
 
 
 <div id="header" align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/11933/11933138.png" width="150"/>
+  <img src="https://www.piranhaprofits.com/hubfs/Avater%20Course%20Icon%204-1.png" width="150"/>
+
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/norahmiller/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </div>
 </div>
 
 ### Hello! 👋
