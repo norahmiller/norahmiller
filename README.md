@@ -4,13 +4,16 @@
 <div id="header" align="center">
   <img src="https://www.piranhaprofits.com/hubfs/Avater%20Course%20Icon%204-1.png" width="200"/>
 
+  #
   <div id="badges">
+    <img src="https://img.shields.io/badge/norah@purdue.edu-white?style=for-the-badge&logo=microsoft-outlook&logoColor=lightgrey" alt="Email"/>
+    <img src="https://img.shields.io/badge/Purdue University-white?style=for-the-badge&logo=readthedocs&logoColor=lightgrey" alt="Education"/>
   <a href="https://www.linkedin.com/in/norahmiller/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-lightgrey?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </div>
 </div>
 
-### Hello! 👋
+
 
 
 <!--
