@@ -2,17 +2,18 @@
 
 
 <div id="header" align="center">
-  <img src="https://www.sellerlabs.com/wp-content/uploads/2021/12/main-1.png" width="250"/>
+  <img src="https://1.bp.blogspot.com/-Ya7IAmAhVW8/Xvpltf95L1I/AAAAAAAABS0/-BgPxua8xaEa99D1PmZjELZqbWO6yTM0gCK4BGAsYHg/s612/istockphoto-1222955463-612x612.jpg" width="250"/>
   
-  Norah Miller
-
-  #
-  <div id="badges">
-    <img src="https://img.shields.io/badge/norah@purdue.edu-white?style=for-the-badge&logo=microsoft-outlook&logoColor=lightgrey" alt="Email"/>
+  # Norah Miller
+ <div id="badges">
+    <a href="mailto:norah@purdue.edu">
+       <img src="https://img.shields.io/badge/norah@purdue.edu-white?style=for-the-badge&logo=microsoft-outlook&logoColor=lightgrey" alt="Email"/>
     <img src="https://img.shields.io/badge/Purdue University-white?style=for-the-badge&logo=readthedocs&logoColor=lightgrey" alt="Education"/>
-  <a href="https://www.linkedin.com/in/norahmiller/">
-    <img src="https://img.shields.io/badge/LinkedIn-lightgrey?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </div>
+    <a href="https://www.linkedin.com/in/norahmiller/">
+        <img src="https://img.shields.io/badge/LinkedIn-lightgrey?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+</div>
+
 </div>
 
 
