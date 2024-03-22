@@ -2,7 +2,9 @@
 
 
 <div id="header" align="center">
-  <img src="https://www.piranhaprofits.com/hubfs/Avater%20Course%20Icon%204-1.png" width="200"/>
+  <img src="https://www.sellerlabs.com/wp-content/uploads/2021/12/main-1.png" width="250"/>
+  
+  Norah Miller
 
   #
   <div id="badges">
