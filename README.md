@@ -7,8 +7,9 @@
   # Norah Miller
  <div id="badges">
     <a href="mailto:norah@purdue.edu">
-       <img src="https://img.shields.io/badge/norah@purdue.edu-white?style=for-the-badge&logo=microsoft-outlook&logoColor=lightgrey" alt="Email"/>
-    <img src="https://img.shields.io/badge/Purdue University-white?style=for-the-badge&logo=readthedocs&logoColor=lightgrey" alt="Education"/>
+        <img src="https://img.shields.io/badge/norah@purdue.edu-white?style=for-the-badge&logo=microsoft-outlook&logoColor=lightgrey" alt="Email"/>
+    <a href="https://www.purdue.edu/">
+        <img src="https://img.shields.io/badge/Purdue University-white?style=for-the-badge&logo=readthedocs&logoColor=lightgrey" alt="Education"/>
     <a href="https://www.linkedin.com/in/norahmiller/">
         <img src="https://img.shields.io/badge/LinkedIn-lightgrey?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
