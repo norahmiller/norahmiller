@@ -13,6 +13,9 @@
     <a href="https://www.linkedin.com/in/norahmiller/">
         <img src="https://img.shields.io/badge/LinkedIn-lightgrey?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
+      <a href="https://norahmiller.github.io/">
+        <img src="https://img.shields.io/badge/About Me-715645?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
 </div>
 
 </div>
